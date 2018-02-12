@@ -1,4 +1,4 @@
-# Ract-to-do-app
+# React-to-do-app
 React practice app by creating a to do app
 
 ## Dev and dev-dependencies
